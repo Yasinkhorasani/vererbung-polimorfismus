@@ -41,7 +41,7 @@ public class Hund extends Tier {
 	 */
 	@Override
 	public void klang() {
-		System.out.println(" Wuff  Wuff Wuff");
+		System.out.println(" Wuff  Wuff Wuff wuff");
 	}
 
 	/**
